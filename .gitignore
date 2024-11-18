@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+
+# Allow specific folder and its contents
+hypr/*
+kitty/*
+mako/*
+neofetch/*
+nvim/*
+starship.toml
+swaylock/*
+Thunar/*
+waybar/*
+wofi/*

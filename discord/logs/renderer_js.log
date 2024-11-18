@@ -1,0 +1,24 @@
+[2024-11-14 19:21:29.674] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:30.189] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:30.190] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:31.123] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 19:21:31.433] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 19:21:31.801] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, build: null
+[2024-11-14 19:21:31.918] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 19:21:31.991] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 19:21:31.992] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:32.256] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:32.258] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:32.731] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 19:21:33.137] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:21:36.074] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 19:21:36.104] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 19:21:40.155] [info]  [RPCServer:WSS] Socket Message: 3 [object Object]
+[2024-11-14 19:21:40.171] [info]  [RPCServer:WSS] Socket Emit: 3 [object Object]
+[2024-11-14 19:21:40.270] [info]  [LoginQRSocket] [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2
+[2024-11-14 19:21:40.448] [info]  [LoginQRSocket] [180ms] got hello, auth timeout=330312ms
+[2024-11-14 19:21:40.557] [info]  [LoginQRSocket] [288ms] connected, handshaking with fingerprint: FvlWQ_QcWF4Hn0uOeM4lCHVdTZyWf0kMQGjgx40SOds
+[2024-11-14 19:21:40.675] [info]  [LoginQRSocket] [407ms] computed nonce proof
+[2024-11-14 19:21:40.790] [info]  [LoginQRSocket] [522ms] handshake complete awaiting remote auth.
+[2024-11-14 19:22:18.869] [info]  [RPCServer:WSS] Socket Message: 4 [object Object]
+[2024-11-14 19:22:18.882] [info]  [RPCServer:WSS] Socket Emit: 4 [object Object]
